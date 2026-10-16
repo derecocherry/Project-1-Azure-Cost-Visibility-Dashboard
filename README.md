@@ -209,4 +209,4 @@ Deletes the resource group, budget, Logic App, and Log Analytics workspace.
 
 ---
 
-**Author:** Reco
+**Author:** Dereco Cherry
